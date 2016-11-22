@@ -1,10 +1,3 @@
 * sample Jisgaw
-
-.
-├── README.md<br>
-├── mods<br>
-│   └── com.greetings<br>
-│       ├── com<br>
-│       │   └── greetings<br>
-│       │       └── Main.class<br>
-│       └── module-info.class<br>
+refer to http://openjdk.java.net/projects/jigsaw/quick-start
+I just try to use jigsaw. The original code is above url.
