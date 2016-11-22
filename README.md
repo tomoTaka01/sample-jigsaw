@@ -1,12 +1,10 @@
-* sample Jisgaw 
+* sample Jisgaw
 
 .
-├── README.md
-├── mods
-│   └── com.greetings
-│       ├── com
-│       │   └── greetings
-│       │       └── Main.class
-│       └── module-info.class
-
-
+├── README.md<br>
+├── mods<br>
+│   └── com.greetings<br>
+│       ├── com<br>
+│       │   └── greetings<br>
+│       │       └── Main.class<br>
+│       └── module-info.class<br>
